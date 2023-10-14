@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 static design since the layout doesn't change for smaller screens
 
 ### Screenshot
-![desktop](./final/desktop-final.png)
-![mobile](./final/mobile-final.png)
+![desktop](./final/desktop.png)
+![mobile](./final/mobile.png)
 
 
 
