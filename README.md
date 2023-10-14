@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-static design since the layout doesn't change for smaller screens
+non-responsive design since the layout doesn't change for smaller screens
 
 ### Screenshot
 ![desktop](./final/desktop.png)
