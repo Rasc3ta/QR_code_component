@@ -23,8 +23,8 @@ static design since the layout doesn't change for smaller screens
 
 ### Links
 
-- Solution URL: https://github.com/Rasc3ta/Qr_code_component
-- Live Site URL: https://rasc3ta.github.io/Qr_code_component
+- Solution URL: https://github.com/Rasc3ta/QR_code_component
+- Live Site URL: https://rasc3ta.github.io/QR_code_component
 
 
 ### Built with
