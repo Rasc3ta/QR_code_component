@@ -16,15 +16,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 static design since the layout doesn't change for smaller screens
 
 ### Screenshot
+![desktop](./final/desktop-final.png)
+![mobile](./final/mobile-final.png)
 
-![](./screenshot.jpg)
 
-to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Rasc3ta/Qr_code_component
+- Live Site URL: https://rasc3ta.github.io/Qr_code_component
 
 
 ### Built with
@@ -35,6 +35,5 @@ to add a screenshot, feel free to remove this entire section.**
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@rasc3ta](https://www.frontendmentor.io/profile/rasc3ta)
+- Twitter - [@shan5nou](https://www.twitter.com/shan5nou)
